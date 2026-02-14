@@ -5,6 +5,10 @@
 __pycache__
 *.pyc 
 
+# Pytest Cache
+.pytest_cache/
+
+
 # Build artifacts
 *.egg-info/
 dist/
